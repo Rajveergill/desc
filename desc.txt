@@ -1,0 +1,8 @@
+i want to make javascript app on online registration system of college .
+In this student who want to get admission in college can register themsleves for upcoming intake by filling all the relevent delails
+regular student can also register by selecting semester and intaken .
+This app automatically gives the first come first serve service ,
+when number exceed the availability of seats in college the registration system will show message 
+either to book seats for next intake or can try somewhere else. list of students who do registration is shown on other page , 
+admin can only see this page. when regular student do registration system will to do registration when seats avaliable 
+otherwise display sorry message.
